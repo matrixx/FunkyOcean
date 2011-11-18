@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-MeeGoTouch-Metatheme
+Name=Funky Ocean
+Encoding=UTF-8
+
+[X-MeeGoTouch-Metatheme]
+X-Inherits=blanco
+X-Icon="icon-l-funkyocean"
+X-Visible=true
+
+[X-DUI-Metatheme]
+X-Icon="icon-l-funkyocean"
+X-Inherits=blanco
+X-Visible=true

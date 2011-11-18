@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-MeeGoTouch-Metatheme
+Name=Funky Ocean
+Encoding=UTF-8
+Version=1.0
+Terminal=false
+X-Icon="icon-l-funkyocean"
+NotShowIn=X-MeeGo;
+NoDisplay=true
