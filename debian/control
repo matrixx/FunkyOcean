@@ -3,7 +3,7 @@ Section: user/graphics
 Priority: optional
 Maintainer: Saija Etelaniemi <setelani@live.com>
 Homepage: http://leimu.drupalgardens.com
-Build-Depends: debhelper (>= 4)
+Build-Depends: debhelper (>= 4), cdbs
 Standards-Version: 3.7.3
 
 Package: funkyocean
