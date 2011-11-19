@@ -4,6 +4,6 @@ Name=Funky Ocean
 Encoding=UTF-8
 Version=1.0
 Terminal=false
-X-Icon="icon-l-funkyocean"
+Icon=/usr/share/icons/hicolor/64x64/apps/funkyocean.png
 NotShowIn=X-MeeGo;
 NoDisplay=true

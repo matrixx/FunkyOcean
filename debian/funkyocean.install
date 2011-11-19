@@ -2,3 +2,4 @@ funkyocean.desktop /usr/share/applications/
 index.theme /usr/share/themes/funkyocean/
 license.html /usr/share/themes/funkyocean/
 icons/* /usr/share/applications/funkyocean/meegotouch/icons/
+funkyocean.png /usr/share/icons/hicolor/64x64/apps/
