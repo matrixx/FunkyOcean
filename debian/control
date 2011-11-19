@@ -1,15 +1,12 @@
-Source: FunkyOcean
+Source: funkyocean
 Section: user/graphics
 Priority: optional
 Maintainer: Saija Etelaniemi <setelani@live.com>
-Build-Depends: debhelper (>= 5)
-Standards-Version: 3.7.3
 Homepage: http://leimu.drupalgardens.com
+Build-Depends: debhelper (>= 4)
+Standards-Version: 3.7.3
 
 Package: funkyocean
-Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Architecture: all
 Description: Theme for Harmattan
  This package installs a custom theme for Harmattan platform. To change to use this theme, you'll also need ThemeChanger tool.
-XSBC-Maemo-Display-Name: Funky Ocean
-
